@@ -10,4 +10,9 @@ const it = (desc, fn) => {
     }
 }
 
-module.exports = { it }
+const describe = (desc, fn) => {
+    console.log('\x1b[36m%s\x1b[0m', `\u2615 ${desc}\n`)
+    fn()
+}
+
+module.exports = { it, describe }

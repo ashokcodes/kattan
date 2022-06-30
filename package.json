@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ashokcodes/kattan/issues"
   },
-  "homepage": "https://github.com/ashokcodes/kattan#readme"
+  "homepage": "https://github.com/ashokcodes/kattan#readme",
+  "dependencies": {
+    "assert": "^2.0.0"
+  }
 }
