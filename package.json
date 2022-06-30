@@ -1,6 +1,6 @@
 {
   "name": "kattan",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple test suite",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,13 @@
     "chai"
   ],
   "author": "Ashok Mohanakumar",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashokcodes/kattan.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ashokcodes/kattan/issues"
+  },
+  "homepage": "https://github.com/ashokcodes/kattan#readme"
 }
